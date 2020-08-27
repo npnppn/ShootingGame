@@ -6,7 +6,11 @@ Shooting Game with Python
 - 적군을 맞추면 폭발이미지가 생성되고 새로운 적군이 발생. 많이 맞출수록 적군의 속도는 점점 빨라집니다.
 
 # 2. 실행 화면
+![image](https://user-images.githubusercontent.com/61404972/91398475-19cf7500-e877-11ea-8362-8b2ec26c4e95.png)
 
+![image](https://user-images.githubusercontent.com/61404972/91398483-1e942900-e877-11ea-8d4b-8f707d78a720.png)
+
+![image](https://user-images.githubusercontent.com/61404972/91398488-22c04680-e877-11ea-9c6b-199031dce2a6.png)
 
 # 3. 각 유닛의 기능 설명
  1) 배경화면 : pygame에서 제공하는 기능을 통해 기본화면을 구성하였고, 배경화면의 색상은 실행할 때마다 무작위로 표현할 수 있도록 구성하였습니다.
